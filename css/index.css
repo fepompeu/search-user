@@ -1,0 +1,35 @@
+body {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  align-content: center;
+  padding: 25px;
+}
+
+img {
+  border-radius: 25px;
+}
+.inline-objects {
+  display: flex;
+  align-items: center;
+}
+
+.panel-content {
+  width: 48%;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 50px;
+}
+
+.elements {
+  margin: 5px;
+}
+
+.divRow {
+  /* margin: 0.5rem; */
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  /* flex-direction: column; */
+  /* align-items: center; */
+}
